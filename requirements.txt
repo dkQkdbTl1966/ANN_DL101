@@ -28,7 +28,7 @@ comm
 confection
 contourpy
 cryptography
-cupy-cuda12x
+#cupy-cuda12x
 cycler
 cymem
 debugpy
